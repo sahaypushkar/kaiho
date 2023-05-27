@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaiho/static/css/main.98d528fe.css",
+    "main.js": "/kaiho/static/js/main.4c6930cb.js",
+    "index.html": "/kaiho/index.html",
+    "main.98d528fe.css.map": "/kaiho/static/css/main.98d528fe.css.map",
+    "main.4c6930cb.js.map": "/kaiho/static/js/main.4c6930cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d528fe.css",
+    "static/js/main.4c6930cb.js"
+  ]
+}
